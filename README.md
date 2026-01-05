@@ -1,5 +1,5 @@
 [![Docker Trilogy](https://img.shields.io/badge/Docker-3%20Certs-blue)]()
-## [DevOps with Docker - University of Helsinki MOOC Trilogy](https://courses.mooc.fi/org/uh-cs/courses/devops-with-docker)
+## [DevOps with Docker [Trilogy]- University of Helsinki MOOC ](https://courses.mooc.fi/org/uh-cs/courses/devops-with-docker)
 **3 Certificates** | **Full Docker Stack** | **Precursor to Kubernetes**
 
 **Title: "DevOps with Docker - 3 Certs"**    
